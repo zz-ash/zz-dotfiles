@@ -1,0 +1,5 @@
+[user]
+	email = smitherander@gmail.com
+	name = Andreas Schmidt
+[pull]
+	rebase = false
